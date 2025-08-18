@@ -1,0 +1,22 @@
+.recipe-menu {
+    display: inline-block;
+    background-color: darkgrey;
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 16px auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.recipe-list {
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+li {
+    color: white;
+}
